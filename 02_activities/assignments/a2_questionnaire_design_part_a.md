@@ -16,26 +16,64 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#3`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of this survey is to explore the relationship between age and 
+music taste, specifically focusing on how individuals' preferences for popular music change over time. The findings will contribute to understanding the impact of age on musical preferences, aiming to identify patterns across different age groups.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: Individuals of various ages, ranging from teenagers to older adults, with diverse backgrounds to capture a broad spectrum of music preferences.
+
+Sampling Frame: The sampling frame will consist of people residing in Toronto, particularly those accessible through the University of Toronto network, social media platforms, and community groups.
+
+Sampling Units: Individual respondents who are willing to share their music preferences.
+
+Observational units: The individual survey respondents. 
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
+1. What is your age?
+ 18-29
+ 30-39
+ 40-49
+ 50-59
+ 60+
+2. What is your gender?
+ Male
+ Female
+ Non-binary
+ Prefer not to say
+3. How frequently do you listen to music?
+ Daily
+ A few times a week
+ A few times a month
+ Rarely
+ Never
+4. What genre(s) of music do you currently enjoy the most? (Select all that apply)
+ Pop
+ Rock
+ Hip-hop/Rap
+ Classical
+ Jazz
+ Electronic/Dance
+ Country
+ Other (please specify): ___________
+5. Reflecting on your past music tastes, how would you describe your music preferences 10 years ago?
+ Similar to now
+ Somewhat different
+ Completely different
+ Not sure
+6. To what extent do you agree with the statement: "My taste in music has changed significantly as I've aged."
+ Strongly Agree
+ Agree
+ Neutral
+ Disagree
+ Strongly Disagree
 7. write your question here... (optional)
 8. write your question here... (optional)
 9. write your question here... (optional)
