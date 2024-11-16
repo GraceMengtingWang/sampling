@@ -4,19 +4,153 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+The quality of the sample will depend on how effectively it captures the diversity of age groups and music preferences within the target population. Since the survey will primarily be distributed online through social media, university mailing lists, and forums, it is likely to skew towards younger, tech-savvy individuals, especially students and professionals comfortable with online surveys.
+
+I don't expect it to be representative of the target population. While the sample will capture a wide range of respondents, it may not fully represent older age groups or those less engaged with digital platforms. Additionally, relying on voluntary participation can lead to self-selection bias, where people with a strong interest in music may be more likely to respond. 
+
+To improve representativeness, additional efforts, such as targeting older age groups through other channels (e.g., community centers or email lists for different demographics), would be beneficial.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+1. What is your age?
+ 18-29
+ 30-39
+ 40-49
+ 50-59
+ 60+
+
+Changes:
+
+Expanded the age categories to include an option for those under 18 and split the 60+ category into narrower age ranges (e.g., 60-69, 70-79, 80+). Added "Prefer not to answer." 
+
+Revised Options:
+Under 18
+18-29
+30-39
+40-49
+50-59
+60-69
+70-79
+80+
+Prefer not to answer
+
+Reason: The original question had a broad "60+" category, which may not accurately capture differences in music preferences among older adults. Additionally, adding a "Prefer not to answer" option respects respondents' privacy.
+
+2. What is your gender?
+ Male
+ Female
+ Non-binary
+ Prefer not to say
+
+Changes:
+
+Expanded gender options for inclusivity and added a "Prefer to self-describe" field. 
+
+Revised Options:
+Male
+Female
+Non-binary
+Prefer not to say
+Prefer to self-describe: ___________
+
+Reason: To be more inclusive and sensitive to respondents' identities, it is essential to provide options beyond the binary choices and allow respondents to self-describe if they wish.
+
+3. How frequently do you listen to music?
+ Daily
+ A few times a week
+ A few times a month
+ Rarely
+ Never
+
+Changes:
+
+No major changes, but added a clarifying statement: "For the past 6 months." 
+
+Revised Question:
+"In the past 6 months, how frequently have you listened to music?"
+
+Reason: Adding a time frame reduces ambiguity and ensures that respondents are thinking about a consistent period when answering.
+
+4. What genre(s) of music do you currently enjoy the most? (Select all that apply)
+ Pop
+ Rock
+ Hip-hop/Rap
+ Classical
+ Jazz
+ Electronic/Dance
+ Country
+ Other (please specify): ___________
+
+Changes:
+
+Added "None of the above" and "Prefer not to answer" options.
+Included genres like R&B, Folk, and Latin to cover more preferences.
+
+Revised Options:
+ Pop
+ Rock
+ Hip-hop/Rap
+ Classical
+ Jazz
+ Electronic/Dance
+ Country
+ R&B
+ Folk
+ Latin
+ Other (please specify): ___________
+
+Reason: Expanding the genre list captures a wider range of preferences and avoids excluding respondents with niche interests.
+
+5. Reflecting on your past music tastes, how would you describe your music preferences 10 years ago?
+ Similar to now
+ Somewhat different
+ Completely different
+ Not sure
+
+Changes:
+Added a "Prefer not to answer" option.
+
+Revised Options:
+ Similar to now
+ Somewhat different
+ Completely different
+ Not sure
+ Prefer not to answer
+
+6. To what extent do you agree with the statement: "My taste in music has changed significantly as I've aged."
+ Strongly Agree
+ Agree
+ Neutral
+ Disagree
+ Strongly Disagree
+
+Changes:
+
+Added a "Prefer not to answer" option.
+
+Revised Options:
+ Strongly Agree
+ Agree
+ Neutral
+ Disagree
+ Strongly Disagree
+ Prefer not to answer
+
+5 & 6 Reason: Adding "Prefer not to answer" maintains respondents' privacy if they are uncomfortable reflecting on changes in their preferences.
     ```
 
-3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
+1. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+Yes, the survey’s purpose could partially be fulfilled through an observational study by analyzing existing data from music streaming platforms or social media to see how music preferences vary with age.
+
+However, it would have limitations:
+
+- No longitudinal insights: Observational data can’t capture how an individual's music taste has changed over time without directly asking them.
+- Missing personal perceptions: It wouldn’t provide subjective reasons behind changes in music tastes.
+- Privacy concerns: Accessing personal streaming or social media data raises ethical issues, unlike surveys where participants share information voluntarily.
     ```
 
 ## Why am I doing this assignment?
