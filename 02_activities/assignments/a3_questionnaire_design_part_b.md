@@ -3,17 +3,17 @@
 ## Requirements
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
-    ```
+```
 The quality of the sample will depend on how effectively it captures the diversity of age groups and music preferences within the target population. Since the survey will primarily be distributed online through social media, university mailing lists, and forums, it is likely to skew towards younger, tech-savvy individuals, especially students and professionals comfortable with online surveys.
 
 I don't expect it to be representative of the target population. While the sample will capture a wide range of respondents, it may not fully represent older age groups or those less engaged with digital platforms. Additionally, relying on voluntary participation can lead to self-selection bias, where people with a strong interest in music may be more likely to respond. 
 
 To improve representativeness, additional efforts, such as targeting older age groups through other channels (e.g., community centers or email lists for different demographics), would be beneficial.
-    ```
+```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
-    ```
+```
 1. What is your age?
  18-29
  30-39
@@ -139,11 +139,11 @@ Revised Options:
  Prefer not to answer
 
 5 & 6 Reason: Adding "Prefer not to answer" maintains respondents' privacy if they are uncomfortable reflecting on changes in their preferences.
-    ```
+```
 
-1. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
+3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
-    ```
+```
 Yes, the survey’s purpose could partially be fulfilled through an observational study by analyzing existing data from music streaming platforms or social media to see how music preferences vary with age.
 
 However, it would have limitations:
@@ -151,7 +151,7 @@ However, it would have limitations:
 - No longitudinal insights: Observational data can’t capture how an individual's music taste has changed over time without directly asking them.
 - Missing personal perceptions: It wouldn’t provide subjective reasons behind changes in music tastes.
 - Privacy concerns: Accessing personal streaming or social media data raises ethical issues, unlike surveys where participants share information voluntarily.
-    ```
+```
 
 ## Why am I doing this assignment?
 
